@@ -1,7 +1,7 @@
 {
-  "name": "react-food-order-app",
+  "name": "React-Food-Order-App",
   "version": "0.1.0",
-  "homepage": "https://fuuko08.github.io/react-food-order-app",
+  "homepage": "https://fuuko08.github.io/React-Food-Order-App/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.6",
